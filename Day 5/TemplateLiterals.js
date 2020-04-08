@@ -11,7 +11,6 @@ function sides(literals, ...expressions) {
     return array;
 }
 
-
 function main() {
     let s1 = +(readLine());
     let s2 = +(readLine());
